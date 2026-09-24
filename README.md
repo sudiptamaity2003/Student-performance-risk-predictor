@@ -22,11 +22,11 @@ The deliverable is a fully interactive **Streamlit dashboard** covering:
 
 ```
 Student Academic Performance/
-├── student_info.csv                          # Raw dataset (1,000 records)
-├── SudiptaMaity_Student-Performance-Analysis.py  # Main Streamlit application
-├── requirements.txt                          # Python dependency list
-├── SudiptaMaity_ProjectReport.docx           # Full project report document
-└── README.md                                 # This file
+├── student_info.csv                               # Raw dataset (1,000 records)
+├── SudiptaMaity_Student-Performance-Analysis.py   # Main Streamlit application
+├── requirements.txt                               # Python dependency list
+├── SudiptaMaity_ProjectReport.docx                # Full project report document
+└── README.md                                      # This file
 ```
 
 ---
