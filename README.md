@@ -187,5 +187,3 @@ This project is created for **IBM SkillsBuild Capstone** academic submission.
 Dataset courtesy of [Kaggle](https://www.kaggle.com/datasets).
 
 ---
-
-*Made with ❤️ by Sudipta Maity · IBM SkillsBuild Capstone 2024*
