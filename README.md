@@ -1,10 +1,5 @@
 # 🎓 Student Performance Analysis & Academic Risk Prediction
 
-> **IBM SkillsBuild Capstone Project**  
-> **Author:** Sudipta Maity  
-> **Dataset:** Student Performance Dataset — 1,000 records  
-> **Architecture:** Unified Streamlit Application (EDA · ML Pipeline · Interactive Dashboard)
-
 ---
 
 ## 📌 Project Overview
